@@ -37,3 +37,6 @@ Manage Members.
                                             BMI analyse it on graph and see how good they perform.
                                     You can configure the default measurement units in your company profile.
   ![image](https://user-images.githubusercontent.com/12432802/194913895-544e047d-edbc-4c0e-9f4e-110aedf55d3b.png)
+  
+  ![image](https://user-images.githubusercontent.com/12432802/194915157-360e5dc3-86f5-4c77-8964-e324418fe1d7.png)
+
