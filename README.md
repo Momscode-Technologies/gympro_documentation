@@ -39,4 +39,12 @@ Manage Members.
   ![image](https://user-images.githubusercontent.com/12432802/194913895-544e047d-edbc-4c0e-9f4e-110aedf55d3b.png)
   
   ![image](https://user-images.githubusercontent.com/12432802/194915157-360e5dc3-86f5-4c77-8964-e324418fe1d7.png)
+  ![image](https://user-images.githubusercontent.com/12432802/194915817-5976f8d1-1466-4ac9-8913-3ee91a1200ad.png)
+  ![image](https://user-images.githubusercontent.com/12432802/194915994-f69eb5ad-886e-4131-8cbb-58899fda6a0c.png)
+  ![image](https://user-images.githubusercontent.com/12432802/194916356-dfe55212-88b8-48ba-9a61-d4a654af31e5.png)
+  ![image](https://user-images.githubusercontent.com/12432802/194916434-59374769-ef45-46b7-a837-8c7c38c7e6e1.png)
+
+
+
+
 
